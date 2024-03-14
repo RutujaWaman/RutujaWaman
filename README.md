@@ -4,7 +4,7 @@
 - 🎯 Passionate about converting data into insights and building frameworks for decision-making.
 - 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
 - 🌱 I’m currently learning Advance SQL and Python.
-- ⚡ Fun fact: I have a keen eye for detail =)
+- ⚡ Fun fact: I have a keen eye for details :)
 - 📫 To reach me: contact.rutujaw@gmail.com 
 
 
